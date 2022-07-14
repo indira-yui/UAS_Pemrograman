@@ -8,7 +8,7 @@
 | **Mata Kuliah** | Pemrograman Web |
 
 ## Dokumentasi
-- [Dokumentasi](https://drive.google.com/drive/folders/1QHUpGtkbucuQih_WY32TbxPkIZRuVhq4)
+- [Dokumentasi](https://drive.google.com/file/d/1gOfTzMzLUrDbwv4VMQ8J1hZELPB2N7lE/view?usp=sharing)
 
 ## Demo
 - [Link Demo]()
